@@ -1,0 +1,39 @@
+
+div.gallery-section {
+    background: #fff;
+    padding: 4rem;
+}
+
+div.gallery-content {
+    text-align: center;
+}
+
+div.gallery-content h4 {
+    color: #555657;
+    font-size: 1.5rem;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+div.gallery-content p {
+    color: #A6A5AA;
+    font-size: 1rem;
+    letter-spacing: 2px;
+    padding-top: 0.8rem;
+}
+
+div.gallery-img {
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
+   padding-top: 3rem;
+}
+
+div.img {
+    margin: 10px;
+}
+
+div.img img {
+    width: 250px;
+    height: 180px;
+}
